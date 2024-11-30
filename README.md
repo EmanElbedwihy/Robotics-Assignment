@@ -27,12 +27,13 @@
 
  <h4>5-Calculate Metrics</h4>
  Measure the distance to the obstacle and determine its coordinates relative to the robot.
-
+ 
  <h4>Display Results</h4>
  Visualize the detected rays on the map and output the collected data about each ray.
 
  ### Example <a name = "ex1"></a>
  This output is generated for the robot's pose at (x = 14 m, y = 7.4 m, θ = 135°), corresponding to (x = 350 pixels, y = 185 pixels).
+ 
  ![Rays](Rays.png)
 
 
