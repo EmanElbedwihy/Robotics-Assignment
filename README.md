@@ -28,7 +28,7 @@
  <h4>5-Calculate Metrics</h4>
  Measure the distance to the obstacle and determine its coordinates relative to the robot.
  
- <h4>Display Results</h4>
+ <h4>6-Display Results</h4>
  Visualize the detected rays on the map and output the collected data about each ray.
 
  ### Example <a name = "ex1"></a>
