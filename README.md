@@ -43,7 +43,7 @@
  <ul>
  <li>Convert the map image to grayscale.</li>
  <li>Apply thresholding to distinguish obstacles (black areas) and free spaces (white areas).</li>
- <li>Apply Gaussian blur to smoothen the map and reduce noise.</li>
+ <li>Apply Gaussian blur to smoothen the map.</li>
  <li>Add slight noise to the map to improve robustness during likelihood estimation.</li>
  </ul>
  <h4>2-Iterate Over Grid Cells</h4>
