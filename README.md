@@ -33,6 +33,7 @@
 
  ### Example <a name = "ex1"></a>
  This output is generated for the robot's pose at (x = 14 m, y = 7.4 m, θ = 135°), corresponding to (x = 350 pixels, y = 185 pixels).
+ 
  ![Rays](Rays.png)
 
 
